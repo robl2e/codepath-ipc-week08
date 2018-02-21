@@ -159,8 +159,8 @@ A content provider one method to persist data. You would commonly used them if y
 
 18.
 >How do you handle Bitmaps in Android and what are common issues associated with them? How do you address these issues?
-Using and image downloading, loading library such as Glide or Picasso. Common issues with Bitmaps is managing their memory usage and performance in loading and cleaning up resources.
 
+Using an image downloading, loading library such as Glide or Picasso. Common issues with Bitmaps is managing their memory usage and performance in loading and cleaning up resources.
 
 19.
 >What is the function of an intent filter? When would you use them in an app?
